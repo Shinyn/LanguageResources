@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LanguageResources</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="press">Press!</string>
+    <string name="good_bye">Good bye World!</string>
+
+
+
+</resources>

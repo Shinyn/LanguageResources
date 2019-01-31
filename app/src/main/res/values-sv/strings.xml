@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LanguageResources</string>
+    <string name="hello_world">Hej världen!</string>
+    <string name="press">Tryck!</string>
+    <string name="good_bye">Hejdå Världen!</string>
+
+
+
+
+</resources>
